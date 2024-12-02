@@ -746,8 +746,8 @@ ul li {
 
 .detail-content p {
 	color: #545454;
-	font-size: 13px;
-	line-height: 18px;
+	font-size: 15px;
+	line-height: 17px;
 	font-weight: 400;
 }
 
@@ -760,10 +760,11 @@ ul li {
 
 .detail-content  li {
 	color: #545454;
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: 400;
 	padding-left: 2%;
 	padding-top: 4px;
+	padding-bottom:7px;
 }
 
 .detail-content  li a {
