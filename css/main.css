@@ -485,7 +485,6 @@ ul li {
 	margin-top:20px;
 }
 
-
 .papers-content li a {
 	color: #0099CC;
 	/*line-height: 30px*/;
@@ -618,7 +617,7 @@ ul li {
 	margin-bottom: 0%;
 	text-transform: none;
 }
-.research ul {
+.scopus ul {
 	color: #6c7279;
 	font-size: 17px;
 	font-weight: 200;
@@ -767,7 +766,15 @@ ul li {
 	padding-top: 4px;
 }
 
+.detail-content  li a {
+	color: #0099CC;
 
+}
+
+.detail-content li a:hover {
+  color: #36648B;
+  text-decoration: underline;
+}
 /* ------------------------------------------------------------------------------
 	 Photos
 -------------------------------------------------------------------------------*/
